@@ -1,1 +1,1 @@
-# DSMethodology-A-ccase-study
+# DSMethodology-A-case-study
